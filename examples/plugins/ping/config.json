@@ -1,0 +1,5 @@
+{
+    "name": "pingPlugin",
+    "description": "A plugin that responds to a !ping command",
+    "version": "1.0.0"
+}
