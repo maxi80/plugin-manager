@@ -1,0 +1,16 @@
+{
+  "name": "maxi-plugin-manager",
+  "version": "1.0.2",
+  "description": "A Discord bot plugin manager, which allows for custom plugins created by users to run along-side your bot.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugins",
+    "plugin",
+    "manager"
+  ],
+  "author": "maxi8008",
+  "license": "ISC"
+}
