@@ -1,0 +1,6 @@
+{
+    "name": "welcomePlugin",
+    "description": "A plugin that welcomes new members to the server",
+    "version": "1.0.0",
+    "welcomeChannelId": "YOUR_CHANNEL_ID"
+}
